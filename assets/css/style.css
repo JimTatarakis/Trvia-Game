@@ -1,0 +1,26 @@
+body{
+    background-image: url(http://sfwallpaper.com/images/backgrounds-batman-18.jpg);
+    color: #F1FC00;
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+.logo{
+    height: 200px;
+    background-image: url(https://www.pngkey.com/png/full/0-7606_batman-logo-no-backgound-clip-art-at-clipart.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24%;
+    text-align: center;
+    color: black;
+    position: relative;
+    top: 50%;
+    vertical-align: middle;
+}
+.answer{
+    position: relative;
+    top: 40%;
+}
